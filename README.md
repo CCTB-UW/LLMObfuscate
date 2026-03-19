@@ -1,3 +1,4 @@
 # LLM-Obfuscation
 
-Requires LuaUtils to function correctly
+Requires [LuaUtils](https://github.com/CCTB-UW/LuaUtils) to work.
+
